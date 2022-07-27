@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://www.artstation.com/api/v2/image_capture/digital_cards/mrivara.png" align="center" style="width: 100%" />
+</div>  
+
 <h1 align="center">Hi 👋, I'm Matias Rivara</h1>
 <h3 align="center">Unity Developer and 3D Artist</h3>
 
